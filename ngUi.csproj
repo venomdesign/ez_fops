@@ -81,6 +81,7 @@
     <Content Include="src\app\history\history.component.html" />
     <Content Include="src\app\home\home.component.html" />
     <Content Include="src\app\invoice\invoice.component.html" />
+    <Content Include="src\app\login\login.component.css" />
     <Content Include="src\app\login\login.component.html" />
     <Content Include="src\app\logout\logout.component.html" />
     <Content Include="src\app\password\password.component.html" />
