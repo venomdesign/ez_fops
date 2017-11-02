@@ -26,8 +26,7 @@ const routes: Routes = [
     { path: 'thankyou', component: ThankyouComponent },
     { path: 'login', component: LoginComponent },
     { path: 'logout', component: LogoutComponent },
-    { path: 'callback', component: CallbackComponent },
-    { path: '**', component: HomeComponent }
+    { path: 'callback', component: CallbackComponent }
 ];
 
 @NgModule({

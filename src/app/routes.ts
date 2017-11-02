@@ -6,6 +6,6 @@ import { ThankyouComponent } from './thankyou/thankyou.component';
 
 export const routes: Routes = [
  
-  { path: 'thankyou', component: ThankyouComponent }
+  { path: 'thankyou', component: ThankyouComponent, pathMatch: 'full' }
  
 ];
